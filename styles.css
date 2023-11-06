@@ -1,0 +1,15 @@
+
+.quiz-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.options-container button {
+    display: block;
+    margin: 10px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+}
